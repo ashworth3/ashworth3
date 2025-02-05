@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ashworth3/ashworth3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 const aboutMe = {
     name: {
         first: "Andre",
@@ -18,4 +15,3 @@ const aboutMe = {
         linkedin: 'https://www.linkedin.com/in/andre-ashworth',
     }
 }
--->
