@@ -5,7 +5,6 @@ const aboutMe = {
     name: {
         first: "Andre",
         last: "Ashworth", 
-        pronouns: 'he/him/his',
     },
     experience: {
         curr: 'Hallmark IT Services',
