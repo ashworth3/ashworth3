@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+```javascript
 const aboutMe = {
     name: {
         first: "Andre",
@@ -15,3 +16,4 @@ const aboutMe = {
         linkedin: 'https://www.linkedin.com/in/andre-ashworth',
     }
 }
+```
