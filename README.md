@@ -7,7 +7,7 @@ const aboutMe = {
         last: "Ashworth", 
     },
     experience: {
-        curr: 'Hallmark IT Services',
+        curr: 'Hallmark Technology & Marketing Consulting',
     },
     workingOn: 'B.S. Computer Science',
     learning: 'Operating Systems, CS Theory, Applied Computing',
