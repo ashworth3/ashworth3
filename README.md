@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Andre</h1>
+<h1 align="center">Hi, I'm Andre</h1>
 <h3 align="center">A passionate computer science student from California</h3>
 
 - 🌱 I’m currently learning **Operating Systems, CS Theory, Applied Computing**
 
-- 👨‍💻 My projects are available @ [https://github.com/ashworth3](https://github.com/ashworth3)
-
 - 📫 How to reach me **ashworthandre@gmail.com**
-
-- 📄 Know about my experiences @ [https://www.linkedin.com/in/andre-ashworth/](https://www.linkedin.com/in/andre-ashworth/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
