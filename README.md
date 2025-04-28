@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Andre</h1>
 <h3 align="center">A passionate computer science student studying at ASU</h3>
 
-- 🌱 I’m currently learning **Operating Systems, CS Theory, Applied Computing**
-
 - 📫 How to reach me **ashworthandre@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
