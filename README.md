@@ -6,7 +6,7 @@
 <ul>
   <li>🌍 From Southern California</li>
   <li>💻 Passionate about technology, software, AI, and solving real-world problems</li>
-  <li>📬 Reach me at <strong>ashworthandre@gmail.com</strong></li>
+  <li>📬 Reach me at <a href="mailto:ashworthandre@gmail.com"><strong>ashworthandre@gmail.com</strong></a></li>
 </ul>
 
 ---
