@@ -4,8 +4,8 @@
 ---
 
 <ul>
-  <li>🌍 Based in Southern California</li>
-  <li>💻 Passionate about software development, building, and problem solving</li>
+  <li>🌍 Southern California</li>
+  <li>💻 Passionate about software development and problem solving</li>
   <li>📬 Reach me at <a href="mailto:ashworthandre@gmail.com"><strong>ashworthandre@gmail.com</strong></a></li>
 </ul>
 
