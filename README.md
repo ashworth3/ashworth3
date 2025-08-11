@@ -1,11 +1,11 @@
 <h1>Hi, I'm Andre 👋</h1>
-<h3>Computer Science Student @ Arizona State University</h3>
+<h3>Studying Computer Science at Arizona State University</h3>
 
 ---
 
 <ul>
-  <li>🌍 From Southern California</li>
-  <li>💻 Passionate about technology, software, AI, and solving real-world problems</li>
+  <li>🌍 Based in Southern California</li>
+  <li>💻 Passionate about software development, building, and problem solving</li>
   <li>📬 Reach me at <a href="mailto:ashworthandre@gmail.com"><strong>ashworthandre@gmail.com</strong></a></li>
 </ul>
 
